@@ -1,0 +1,2 @@
+Configure a Web server, DHCP server and a DNS server all together in a single simulation through which IP have to be allocated for the host through DHCP server, Conversion of Canonical Name to IP address to be done by DNS 
+server and Access to the webpage has to give by web server using Cisco Packet Tracer.
